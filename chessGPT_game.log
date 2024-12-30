@@ -1,0 +1,196 @@
+2024-12-29 18:55:32,337 - INFO - No previous model found, using new model
+2024-12-29 18:59:15,469 - INFO - No previous model found, using new model
+2024-12-30 15:27:56,784 - INFO - No previous model found, using new model
+2024-12-30 15:28:07,184 - INFO - AI model saved successfully
+2024-12-30 15:29:27,942 - INFO - AI model saved successfully
+2024-12-30 15:29:48,178 - INFO - AI model saved successfully
+2024-12-30 15:29:52,197 - INFO - AI model saved successfully
+2024-12-30 15:30:02,447 - INFO - AI model saved successfully
+2024-12-30 15:30:47,488 - INFO - AI model saved successfully
+2024-12-30 15:30:55,567 - INFO - AI model saved successfully
+2024-12-30 15:31:32,035 - INFO - AI model saved successfully
+2024-12-30 15:34:47,554 - INFO - AI model loaded successfully with 0 training games
+2024-12-30 15:37:48,143 - INFO - AI model loaded successfully with 0 training games
+2024-12-30 15:39:37,656 - INFO - AI model loaded successfully with 0 training games
+2024-12-30 15:45:05,564 - INFO - Training game 1 completed. Average loss: 0.6564
+2024-12-30 15:45:05,592 - INFO - AI model saved successfully after 1 training games
+2024-12-30 15:47:38,482 - INFO - Training game 2 completed. Average loss: 0.5111
+2024-12-30 15:49:31,232 - INFO - Training game 3 completed. Average loss: 0.5498
+2024-12-30 15:51:27,405 - INFO - Training game 4 completed. Average loss: 0.4971
+2024-12-30 15:53:19,060 - INFO - Training game 5 completed. Average loss: 0.4825
+2024-12-30 15:54:04,091 - INFO - Training game 6 completed. Average loss: 0.2318
+2024-12-30 15:56:13,690 - INFO - Training game 7 completed. Average loss: 0.5498
+2024-12-30 15:57:34,923 - INFO - Training game 8 completed. Average loss: 0.3997
+2024-12-30 15:58:41,857 - INFO - Training game 9 completed. Average loss: 0.3997
+2024-12-30 16:00:56,768 - INFO - Training game 10 completed. Average loss: 0.5838
+2024-12-30 16:00:56,796 - INFO - AI model saved successfully after 10 training games
+2024-12-30 16:03:13,214 - INFO - Training game 11 completed. Average loss: 0.5730
+2024-12-30 16:04:25,779 - INFO - Training game 12 completed. Average loss: 0.4825
+2024-12-30 16:06:37,407 - INFO - Training game 13 completed. Average loss: 0.4348
+2024-12-30 16:08:52,969 - INFO - Training game 14 completed. Average loss: 0.5246
+2024-12-30 16:11:15,038 - INFO - Training game 15 completed. Average loss: 0.7399
+2024-12-30 16:12:19,356 - INFO - Training game 16 completed. Average loss: 0.4176
+2024-12-30 16:15:19,955 - INFO - Training game 17 completed. Average loss: 0.6404
+2024-12-30 16:18:03,162 - INFO - Training game 18 completed. Average loss: 0.4514
+2024-12-30 16:20:24,885 - INFO - Training game 19 completed. Average loss: 0.6975
+2024-12-30 16:22:04,320 - INFO - Training game 20 completed. Average loss: 0.5498
+2024-12-30 16:22:04,353 - INFO - AI model saved successfully after 20 training games
+2024-12-30 16:23:30,887 - INFO - Training game 21 completed. Average loss: 0.3997
+2024-12-30 16:25:41,191 - INFO - Training game 22 completed. Average loss: 0.5616
+2024-12-30 16:27:10,939 - INFO - Training game 23 completed. Average loss: 0.3810
+2024-12-30 16:29:03,096 - INFO - Training game 24 completed. Average loss: 0.5111
+2024-12-30 16:34:29,726 - INFO - Training game 25 completed. Average loss: 0.8487
+2024-12-30 16:37:07,312 - INFO - Training game 26 completed. Average loss: 0.5616
+2024-12-30 16:39:23,355 - INFO - Training game 27 completed. Average loss: 0.4971
+2024-12-30 16:40:36,704 - INFO - Training game 28 completed. Average loss: 0.2995
+2024-12-30 16:42:36,409 - INFO - Training game 29 completed. Average loss: 0.6319
+2024-12-30 16:44:12,303 - INFO - Training game 30 completed. Average loss: 0.3810
+2024-12-30 16:44:12,337 - INFO - AI model saved successfully after 30 training games
+2024-12-30 16:47:17,196 - INFO - Training game 31 completed. Average loss: 0.5616
+2024-12-30 16:50:25,849 - INFO - Training game 32 completed. Average loss: 0.4673
+2024-12-30 16:52:16,533 - INFO - Training game 33 completed. Average loss: 0.5498
+2024-12-30 16:55:56,166 - INFO - Training game 34 completed. Average loss: 0.8158
+2024-12-30 16:57:33,983 - INFO - Training game 35 completed. Average loss: 0.4176
+2024-12-30 17:00:09,061 - INFO - Training game 36 completed. Average loss: 0.5498
+2024-12-30 17:02:18,029 - INFO - Training game 37 completed. Average loss: 0.6043
+2024-12-30 17:02:51,107 - INFO - Training game 38 completed. Average loss: 0.1606
+2024-12-30 17:04:48,772 - INFO - Training game 39 completed. Average loss: 0.4825
+2024-12-30 17:06:16,362 - INFO - Training game 40 completed. Average loss: 0.5616
+2024-12-30 17:06:16,396 - INFO - AI model saved successfully after 40 training games
+2024-12-30 17:08:33,405 - INFO - Training game 41 completed. Average loss: 0.4673
+2024-12-30 17:09:27,308 - INFO - Training game 42 completed. Average loss: 0.2318
+2024-12-30 17:11:37,748 - INFO - Training game 43 completed. Average loss: 0.5374
+2024-12-30 17:13:59,362 - INFO - Training game 44 completed. Average loss: 0.4971
+2024-12-30 17:18:28,548 - INFO - Training game 45 completed. Average loss: 0.7202
+2024-12-30 17:20:09,787 - INFO - Training game 46 completed. Average loss: 0.4971
+2024-12-30 17:22:15,724 - INFO - Training game 47 completed. Average loss: 0.6230
+2024-12-30 17:23:55,466 - INFO - Training game 48 completed. Average loss: 0.4825
+2024-12-30 17:25:50,422 - INFO - Training game 49 completed. Average loss: 0.5246
+2024-12-30 17:26:27,377 - INFO - Training game 50 completed. Average loss: 0.2549
+2024-12-30 17:26:27,412 - INFO - AI model saved successfully after 50 training games
+2024-12-30 17:28:49,652 - INFO - Training game 51 completed. Average loss: 0.3997
+2024-12-30 17:32:28,375 - INFO - Training game 52 completed. Average loss: 0.6230
+2024-12-30 17:33:58,240 - INFO - Training game 53 completed. Average loss: 0.3617
+2024-12-30 17:36:22,224 - INFO - Training game 54 completed. Average loss: 0.6912
+2024-12-30 17:37:52,827 - INFO - Training game 55 completed. Average loss: 0.5943
+2024-12-30 17:39:47,843 - INFO - Training game 56 completed. Average loss: 0.6975
+2024-12-30 17:42:35,582 - INFO - Training game 57 completed. Average loss: 0.5246
+2024-12-30 17:42:57,474 - INFO - Training game 58 completed. Average loss: 0.1368
+2024-12-30 17:44:51,611 - INFO - Training game 59 completed. Average loss: 0.5246
+2024-12-30 17:47:29,060 - INFO - Training game 60 completed. Average loss: 0.6043
+2024-12-30 17:47:29,094 - INFO - AI model saved successfully after 60 training games
+2024-12-30 17:49:28,994 - INFO - Training game 61 completed. Average loss: 0.4971
+2024-12-30 17:51:17,059 - INFO - Training game 62 completed. Average loss: 0.3617
+2024-12-30 17:52:51,403 - INFO - Training game 63 completed. Average loss: 0.5616
+2024-12-30 17:54:23,688 - INFO - Training game 64 completed. Average loss: 0.3997
+2024-12-30 17:55:48,835 - INFO - Training game 65 completed. Average loss: 0.4514
+2024-12-30 17:58:52,489 - INFO - Training game 66 completed. Average loss: 0.6404
+2024-12-30 17:59:55,353 - INFO - Training game 67 completed. Average loss: 0.3997
+2024-12-30 18:03:04,053 - INFO - Training game 68 completed. Average loss: 0.6781
+2024-12-30 18:04:49,592 - INFO - Training game 69 completed. Average loss: 0.4825
+2024-12-30 18:06:09,713 - INFO - Training game 70 completed. Average loss: 0.4348
+2024-12-30 18:06:09,740 - INFO - AI model saved successfully after 70 training games
+2024-12-30 18:07:33,496 - INFO - Training game 71 completed. Average loss: 0.4673
+2024-12-30 18:31:22,368 - INFO - Training game 72 completed. Average loss: 0.5374
+2024-12-30 18:32:07,708 - INFO - Training game 73 completed. Average loss: 0.2083
+2024-12-30 18:33:24,329 - INFO - Training game 74 completed. Average loss: 0.4971
+2024-12-30 18:35:16,471 - INFO - Training game 75 completed. Average loss: 0.5374
+2024-12-30 18:36:43,587 - INFO - Training game 76 completed. Average loss: 0.4348
+2024-12-30 18:39:26,621 - INFO - Training game 77 completed. Average loss: 0.5498
+2024-12-30 18:41:34,590 - INFO - Training game 78 completed. Average loss: 0.5374
+2024-12-30 18:42:56,786 - INFO - Training game 79 completed. Average loss: 0.3209
+2024-12-30 18:44:59,509 - INFO - Training game 80 completed. Average loss: 0.3997
+2024-12-30 18:44:59,561 - INFO - AI model saved successfully after 80 training games
+2024-12-30 18:47:57,244 - INFO - Training game 81 completed. Average loss: 0.6230
+2024-12-30 18:50:39,999 - INFO - Training game 82 completed. Average loss: 0.5943
+2024-12-30 18:51:40,384 - INFO - Training game 83 completed. Average loss: 0.4348
+2024-12-30 18:55:25,450 - INFO - Training game 84 completed. Average loss: 0.5943
+2024-12-30 18:58:34,613 - INFO - Training game 85 completed. Average loss: 0.6639
+2024-12-30 19:01:43,613 - INFO - Training game 86 completed. Average loss: 0.6404
+2024-12-30 19:02:59,111 - INFO - Training game 87 completed. Average loss: 0.4348
+2024-12-30 19:44:51,542 - INFO - AI model loaded successfully with 80 training games
+2024-12-30 19:44:54,933 - INFO - Training game 88 completed. Average loss: 0.5111
+2024-12-30 19:46:15,235 - INFO - Training game 89 completed. Average loss: 0.5246
+2024-12-30 19:49:17,536 - INFO - Training game 90 completed. Average loss: 0.4514
+2024-12-30 19:49:17,567 - INFO - AI model saved successfully after 90 training games
+2024-12-30 19:51:48,016 - INFO - Training game 91 completed. Average loss: 0.6043
+2024-12-30 19:53:40,577 - INFO - Training game 92 completed. Average loss: 0.3617
+2024-12-30 19:58:29,649 - INFO - Training game 93 completed. Average loss: 0.2549
+2024-12-30 20:01:46,743 - INFO - Training game 94 completed. Average loss: 0.5616
+2024-12-30 20:04:01,863 - INFO - Training game 95 completed. Average loss: 0.5498
+2024-12-30 20:05:47,306 - INFO - Training game 96 completed. Average loss: 0.5374
+2024-12-30 20:09:16,227 - INFO - Training game 97 completed. Average loss: 0.7488
+2024-12-30 20:13:03,020 - INFO - Training game 98 completed. Average loss: 0.7889
+2024-12-30 20:14:13,794 - INFO - Training game 99 completed. Average loss: 0.2775
+2024-12-30 20:16:45,017 - INFO - Training game 100 completed. Average loss: 0.5246
+2024-12-30 20:16:45,060 - INFO - AI model saved successfully after 100 training games
+2024-12-30 20:19:58,075 - INFO - Training game 101 completed. Average loss: 0.5374
+2024-12-30 20:19:58,117 - INFO - AI model saved successfully after 101 training games
+2024-12-30 20:24:23,069 - INFO - Training game 102 completed. Average loss: 2.3764
+2024-12-30 20:39:37,783 - INFO - AI model loaded successfully with 101 training games
+2024-12-30 20:40:16,306 - INFO - AI model saved successfully after 102 training games
+2024-12-30 20:55:08,179 - INFO - AI model loaded successfully with 102 training games
+2024-12-30 20:58:08,577 - INFO - AI model loaded successfully with 102 training games
+2024-12-30 21:01:15,573 - ERROR - Error loading model: Error(s) in loading state_dict for ImprovedChessNet:
+	Missing key(s) in state_dict: "conv3.weight", "conv3.bias", "conv4.weight", "conv4.bias", "batch_norm3.weight", "batch_norm3.bias", "batch_norm3.running_mean", "batch_norm3.running_var", "batch_norm4.weight", "batch_norm4.bias", "batch_norm4.running_mean", "batch_norm4.running_var", "fc3.weight", "fc3.bias", "fc4.weight", "fc4.bias". 
+	size mismatch for conv1.weight: copying a param with shape torch.Size([64, 6, 3, 3]) from checkpoint, the shape in current model is torch.Size([128, 6, 3, 3]).
+	size mismatch for conv1.bias: copying a param with shape torch.Size([64]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for conv2.weight: copying a param with shape torch.Size([128, 64, 3, 3]) from checkpoint, the shape in current model is torch.Size([256, 128, 3, 3]).
+	size mismatch for conv2.bias: copying a param with shape torch.Size([128]) from checkpoint, the shape in current model is torch.Size([256]).
+	size mismatch for batch_norm1.weight: copying a param with shape torch.Size([64]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for batch_norm1.bias: copying a param with shape torch.Size([64]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for batch_norm1.running_mean: copying a param with shape torch.Size([64]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for batch_norm1.running_var: copying a param with shape torch.Size([64]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for batch_norm2.weight: copying a param with shape torch.Size([128]) from checkpoint, the shape in current model is torch.Size([256]).
+	size mismatch for batch_norm2.bias: copying a param with shape torch.Size([128]) from checkpoint, the shape in current model is torch.Size([256]).
+	size mismatch for batch_norm2.running_mean: copying a param with shape torch.Size([128]) from checkpoint, the shape in current model is torch.Size([256]).
+	size mismatch for batch_norm2.running_var: copying a param with shape torch.Size([128]) from checkpoint, the shape in current model is torch.Size([256]).
+	size mismatch for fc1.weight: copying a param with shape torch.Size([256, 8192]) from checkpoint, the shape in current model is torch.Size([2048, 32768]).
+	size mismatch for fc1.bias: copying a param with shape torch.Size([256]) from checkpoint, the shape in current model is torch.Size([2048]).
+	size mismatch for fc2.weight: copying a param with shape torch.Size([1, 256]) from checkpoint, the shape in current model is torch.Size([1024, 2048]).
+	size mismatch for fc2.bias: copying a param with shape torch.Size([1]) from checkpoint, the shape in current model is torch.Size([1024]).
+2024-12-30 21:02:06,856 - ERROR - Error loading model: Error(s) in loading state_dict for ImprovedChessNet:
+	Missing key(s) in state_dict: "conv3.weight", "conv3.bias", "conv4.weight", "conv4.bias", "batch_norm3.weight", "batch_norm3.bias", "batch_norm3.running_mean", "batch_norm3.running_var", "batch_norm4.weight", "batch_norm4.bias", "batch_norm4.running_mean", "batch_norm4.running_var", "fc3.weight", "fc3.bias", "fc4.weight", "fc4.bias". 
+	size mismatch for conv1.weight: copying a param with shape torch.Size([64, 6, 3, 3]) from checkpoint, the shape in current model is torch.Size([128, 6, 3, 3]).
+	size mismatch for conv1.bias: copying a param with shape torch.Size([64]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for conv2.weight: copying a param with shape torch.Size([128, 64, 3, 3]) from checkpoint, the shape in current model is torch.Size([256, 128, 3, 3]).
+	size mismatch for conv2.bias: copying a param with shape torch.Size([128]) from checkpoint, the shape in current model is torch.Size([256]).
+	size mismatch for batch_norm1.weight: copying a param with shape torch.Size([64]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for batch_norm1.bias: copying a param with shape torch.Size([64]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for batch_norm1.running_mean: copying a param with shape torch.Size([64]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for batch_norm1.running_var: copying a param with shape torch.Size([64]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for batch_norm2.weight: copying a param with shape torch.Size([128]) from checkpoint, the shape in current model is torch.Size([256]).
+	size mismatch for batch_norm2.bias: copying a param with shape torch.Size([128]) from checkpoint, the shape in current model is torch.Size([256]).
+	size mismatch for batch_norm2.running_mean: copying a param with shape torch.Size([128]) from checkpoint, the shape in current model is torch.Size([256]).
+	size mismatch for batch_norm2.running_var: copying a param with shape torch.Size([128]) from checkpoint, the shape in current model is torch.Size([256]).
+	size mismatch for fc1.weight: copying a param with shape torch.Size([256, 8192]) from checkpoint, the shape in current model is torch.Size([2048, 32768]).
+	size mismatch for fc1.bias: copying a param with shape torch.Size([256]) from checkpoint, the shape in current model is torch.Size([2048]).
+	size mismatch for fc2.weight: copying a param with shape torch.Size([1, 256]) from checkpoint, the shape in current model is torch.Size([1024, 2048]).
+	size mismatch for fc2.bias: copying a param with shape torch.Size([1]) from checkpoint, the shape in current model is torch.Size([1024]).
+2024-12-30 21:03:35,657 - ERROR - Error loading model: Error(s) in loading state_dict for ImprovedChessNet:
+	Missing key(s) in state_dict: "conv3.weight", "conv3.bias", "batch_norm3.weight", "batch_norm3.bias", "batch_norm3.running_mean", "batch_norm3.running_var", "fc3.weight", "fc3.bias". 
+	size mismatch for fc1.weight: copying a param with shape torch.Size([256, 8192]) from checkpoint, the shape in current model is torch.Size([1024, 16384]).
+	size mismatch for fc1.bias: copying a param with shape torch.Size([256]) from checkpoint, the shape in current model is torch.Size([1024]).
+	size mismatch for fc2.weight: copying a param with shape torch.Size([1, 256]) from checkpoint, the shape in current model is torch.Size([256, 1024]).
+	size mismatch for fc2.bias: copying a param with shape torch.Size([1]) from checkpoint, the shape in current model is torch.Size([256]).
+2024-12-30 21:03:41,105 - ERROR - AI error: Module [ImprovedChessNet] is missing the required "forward" function
+2024-12-30 21:06:23,781 - ERROR - Error loading model: Error(s) in loading state_dict for ImprovedChessNet:
+	Missing key(s) in state_dict: "conv3.weight", "conv3.bias", "batch_norm3.weight", "batch_norm3.bias", "batch_norm3.running_mean", "batch_norm3.running_var", "fc3.weight", "fc3.bias". 
+	size mismatch for fc1.weight: copying a param with shape torch.Size([256, 8192]) from checkpoint, the shape in current model is torch.Size([1024, 16384]).
+	size mismatch for fc1.bias: copying a param with shape torch.Size([256]) from checkpoint, the shape in current model is torch.Size([1024]).
+	size mismatch for fc2.weight: copying a param with shape torch.Size([1, 256]) from checkpoint, the shape in current model is torch.Size([256, 1024]).
+	size mismatch for fc2.bias: copying a param with shape torch.Size([1]) from checkpoint, the shape in current model is torch.Size([256]).
+2024-12-30 21:06:31,792 - ERROR - AI error: Module [ImprovedChessNet] is missing the required "forward" function
+2024-12-30 21:07:05,585 - INFO - AI model loaded successfully with 102 training games
+2024-12-30 21:11:14,499 - INFO - Training game 103 completed. Average loss: 0.6485
+2024-12-30 21:11:14,520 - INFO - AI model saved successfully after 103 training games
+2024-12-30 21:13:50,578 - INFO - Training game 104 completed. Average loss: 0.5111
+2024-12-30 21:13:50,596 - INFO - AI model saved successfully after 104 training games
+2024-12-30 21:17:58,477 - INFO - Training game 105 completed. Average loss: 0.7488
+2024-12-30 21:17:58,493 - INFO - AI model saved successfully after 105 training games
+2024-12-30 21:20:17,934 - INFO - Training game 106 completed. Average loss: 0.5838
+2024-12-30 21:20:17,939 - INFO - AI model saved successfully after 106 training games
+2024-12-30 21:22:47,416 - INFO - Training game 107 completed. Average loss: 0.7352
+2024-12-30 21:22:47,439 - INFO - AI model saved successfully after 107 training games
+2024-12-30 21:25:02,612 - INFO - Training game 108 completed. Average loss: 0.4825
+2024-12-30 21:25:02,634 - INFO - AI model saved successfully after 108 training games
