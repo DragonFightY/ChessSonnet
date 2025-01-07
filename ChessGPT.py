@@ -26,6 +26,7 @@ logging.basicConfig(
 )
 
 class ImprovedChessNet(nn.Module):
+    """Your original neural network architecture."""
     def __init__(self):
         super(ImprovedChessNet, self).__init__()
         self.conv1 = nn.Conv2d(6, 64, kernel_size=3, padding=1)
@@ -43,19 +44,15 @@ class ImprovedChessNet(nn.Module):
         x = self.relu(self.fc1(x))
         x = self.fc2(x)
         return torch.tanh(x)
-
 class ChessAI:
-    def __init__(self, use_stockfish=False, stockfish_path=None, stockfish_depth=20):
+    def __init__(self, use_stockfish=False, stockfish_path=None):
         self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-        if torch.cuda.is_available():
-            torch.backends.cuda.max_memory_allocated(8192)
-        torch.set_num_threads(os.cpu_count())
-        
         self.model = ImprovedChessNet().to(self.device)
         self.optimizer = optim.Adam(self.model.parameters(), lr=0.001)
         self.game_history = []
-        self.training_games = 0
+        self.lock = Lock()  # Add thread safety for web environment
         
+        # Initialize metrics
         self.metrics = {
             'total_games': 0,
             'wins': 0,
@@ -65,6 +62,20 @@ class ChessAI:
             'total_moves': 0,
             'running_loss': []
         }
+        
+        self.load_training_state()
+        self.load_metrics()
+        
+        # Initialize Stockfish if requested
+        self.use_stockfish = use_stockfish
+        self.stockfish_path = stockfish_path
+        self.engine = None
+        if use_stockfish and stockfish_path:
+            try:
+                self.engine = chess.engine.SimpleEngine.popen_uci(stockfish_path)
+            except Exception as e:
+                logging.error(f"Failed to initialize Stockfish: {e}")
+                self.use_stockfish = False
         
         self.load_training_state()
         self.load_metrics()

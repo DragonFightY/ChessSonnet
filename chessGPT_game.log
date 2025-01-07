@@ -194,3 +194,589 @@
 2024-12-30 21:22:47,439 - INFO - AI model saved successfully after 107 training games
 2024-12-30 21:25:02,612 - INFO - Training game 108 completed. Average loss: 0.4825
 2024-12-30 21:25:02,634 - INFO - AI model saved successfully after 108 training games
+2024-12-30 21:29:35,730 - INFO - Training game 109 completed. Average loss: 0.6319
+2024-12-30 21:29:35,753 - INFO - AI model saved successfully after 109 training games
+2024-12-30 21:33:17,473 - INFO - Training game 110 completed. Average loss: 0.5943
+2024-12-30 21:33:17,496 - INFO - AI model saved successfully after 110 training games
+2024-12-30 21:36:07,098 - INFO - Training game 111 completed. Average loss: 0.5374
+2024-12-30 21:36:07,128 - INFO - AI model saved successfully after 111 training games
+2024-12-30 21:37:24,881 - INFO - Training game 112 completed. Average loss: 0.3209
+2024-12-30 21:37:24,899 - INFO - AI model saved successfully after 112 training games
+2024-12-30 21:37:24,925 - INFO - AI model saved successfully after 112 training games
+2024-12-30 21:37:58,558 - INFO - AI model saved successfully after 112 training games
+2024-12-30 21:48:09,463 - INFO - Training game 113 completed. Average loss: 0.4594
+2024-12-30 21:48:09,489 - INFO - AI model saved successfully after 113 training games
+2024-12-30 21:49:09,366 - INFO - Training game 114 completed. Average loss: 0.2318
+2024-12-30 21:49:09,384 - INFO - AI model saved successfully after 114 training games
+2024-12-30 21:52:55,154 - ERROR - Error loading model: Weights only load failed. Re-running `torch.load` with `weights_only` set to `False` will likely succeed, but it can result in arbitrary code execution. Do it only if you got the file from a trusted source.
+Please file an issue with the following so that we can make `weights_only=True` compatible with your use case: WeightsUnpickler error: Unsupported operand 149
+
+Check the documentation of torch.load to learn more about types accepted by default with weights_only https://pytorch.org/docs/stable/generated/torch.load.html.
+2024-12-30 22:02:24,121 - ERROR - Error loading model: Weights only load failed. Re-running `torch.load` with `weights_only` set to `False` will likely succeed, but it can result in arbitrary code execution. Do it only if you got the file from a trusted source.
+Please file an issue with the following so that we can make `weights_only=True` compatible with your use case: WeightsUnpickler error: Unsupported operand 149
+
+Check the documentation of torch.load to learn more about types accepted by default with weights_only https://pytorch.org/docs/stable/generated/torch.load.html.
+2024-12-30 22:03:04,715 - ERROR - Error loading model: Weights only load failed. Re-running `torch.load` with `weights_only` set to `False` will likely succeed, but it can result in arbitrary code execution. Do it only if you got the file from a trusted source.
+Please file an issue with the following so that we can make `weights_only=True` compatible with your use case: WeightsUnpickler error: Unsupported operand 149
+
+Check the documentation of torch.load to learn more about types accepted by default with weights_only https://pytorch.org/docs/stable/generated/torch.load.html.
+2024-12-30 22:08:16,471 - ERROR - Error loading model: name 'pickle' is not defined
+2024-12-30 22:12:23,791 - INFO - Training game 1 completed. Average loss: 0.5910
+2024-12-30 22:12:23,807 - INFO - AI model saved successfully after 1 training games
+2024-12-30 22:13:13,916 - ERROR - Error loading model: name 'pickle' is not defined
+2024-12-30 22:36:57,195 - INFO - Training game 1 completed. Average loss: 1.4445
+2024-12-30 22:36:57,215 - INFO - AI model saved successfully after 1 training games
+2024-12-31 13:58:05,110 - ERROR - Error loading model: name 'pickle' is not defined
+2024-12-31 14:17:20,260 - INFO - AI model loaded successfully with 1 training games
+2024-12-31 14:17:34,694 - INFO - AI model loaded successfully with 1 training games
+2024-12-31 14:17:34,700 - ERROR - Failed to initialize Stockfish: [WinError 2] The system cannot find the file specified
+2024-12-31 14:26:41,480 - INFO - AI model loaded successfully with 1 training games
+2024-12-31 14:27:54,755 - INFO - AI model loaded successfully with 1 training games
+2024-12-31 14:27:54,760 - ERROR - Failed to initialize Stockfish: [WinError 2] The system cannot find the file specified
+2024-12-31 15:42:47,039 - INFO - AI model loaded successfully with 1 training games
+2024-12-31 15:47:15,220 - INFO - AI model loaded successfully with 1 training games
+2024-12-31 15:57:49,867 - INFO - AI model loaded successfully with 1 training games
+2024-12-31 15:57:49,875 - ERROR - Failed to initialize Stockfish: [WinError 2] The system cannot find the file specified
+2024-12-31 16:00:05,233 - INFO - AI model loaded successfully with 1 training games
+2024-12-31 16:05:16,258 - INFO - Training game 2 completed:
+            Average loss: 1.6337
+            Win rate: 0.00%
+            Average game length: 72.0 moves
+        
+2024-12-31 16:05:16,302 - INFO - AI model saved successfully after 2 training games
+2024-12-31 16:05:16,305 - INFO - Metrics saved successfully
+2024-12-31 16:07:08,645 - INFO - Training game 3 completed:
+            Average loss: 1.9156
+            Win rate: 0.00%
+            Average game length: 60.0 moves
+        
+2024-12-31 16:07:08,675 - INFO - AI model saved successfully after 3 training games
+2024-12-31 16:07:08,676 - INFO - Metrics saved successfully
+2024-12-31 16:10:02,135 - INFO - Training game 4 completed:
+            Average loss: 1.6777
+            Win rate: 0.00%
+            Average game length: 62.7 moves
+        
+2024-12-31 16:10:02,168 - INFO - AI model saved successfully after 4 training games
+2024-12-31 16:10:02,169 - INFO - Metrics saved successfully
+2024-12-31 16:11:23,406 - INFO - Training game 5 completed:
+            Average loss: 1.9475
+            Win rate: 0.00%
+            Average game length: 58.5 moves
+        
+2024-12-31 16:11:23,438 - INFO - AI model saved successfully after 5 training games
+2024-12-31 16:11:23,439 - INFO - Metrics saved successfully
+2024-12-31 16:13:11,609 - INFO - Training game 6 completed:
+            Average loss: 1.9475
+            Win rate: 0.00%
+            Average game length: 56.0 moves
+        
+2024-12-31 16:13:11,639 - INFO - AI model saved successfully after 6 training games
+2024-12-31 16:13:11,639 - INFO - Metrics saved successfully
+2024-12-31 16:14:33,462 - INFO - Training game 7 completed:
+            Average loss: 2.1862
+            Win rate: 0.00%
+            Average game length: 52.3 moves
+        
+2024-12-31 16:14:33,501 - INFO - AI model saved successfully after 7 training games
+2024-12-31 16:14:33,501 - INFO - Metrics saved successfully
+2024-12-31 16:16:33,947 - INFO - Training game 8 completed:
+            Average loss: 1.9156
+            Win rate: 0.00%
+            Average game length: 51.7 moves
+        
+2024-12-31 16:16:33,983 - INFO - AI model saved successfully after 8 training games
+2024-12-31 16:16:33,984 - INFO - Metrics saved successfully
+2024-12-31 16:20:07,238 - INFO - Training game 9 completed:
+            Average loss: 1.6777
+            Win rate: 0.00%
+            Average game length: 53.8 moves
+        
+2024-12-31 16:20:07,272 - INFO - AI model saved successfully after 9 training games
+2024-12-31 16:20:07,272 - INFO - Metrics saved successfully
+2024-12-31 16:21:47,869 - INFO - Training game 10 completed:
+            Average loss: 2.0173
+            Win rate: 0.00%
+            Average game length: 52.4 moves
+        
+2024-12-31 16:21:47,903 - INFO - AI model saved successfully after 10 training games
+2024-12-31 16:21:47,904 - INFO - Metrics saved successfully
+2024-12-31 16:24:27,649 - INFO - Training game 11 completed:
+            Average loss: 1.7159
+            Win rate: 0.00%
+            Average game length: 53.6 moves
+        
+2024-12-31 16:24:27,679 - INFO - AI model saved successfully after 11 training games
+2024-12-31 16:24:27,679 - INFO - Metrics saved successfully
+2024-12-31 16:25:18,259 - INFO - Training game 12 completed:
+            Average loss: 2.3463
+            Win rate: 0.00%
+            Average game length: 51.3 moves
+        
+2024-12-31 16:25:18,289 - INFO - AI model saved successfully after 12 training games
+2024-12-31 16:25:18,290 - INFO - Metrics saved successfully
+2024-12-31 16:30:20,644 - INFO - Training game 13 completed:
+            Average loss: 1.6777
+            Win rate: 0.00%
+            Average game length: 52.7 moves
+        
+2024-12-31 16:30:20,675 - INFO - AI model saved successfully after 13 training games
+2024-12-31 16:30:20,676 - INFO - Metrics saved successfully
+2024-12-31 16:32:42,757 - INFO - Training game 14 completed:
+            Average loss: 1.8856
+            Win rate: 0.00%
+            Average game length: 52.5 moves
+        
+2024-12-31 16:32:42,792 - INFO - AI model saved successfully after 14 training games
+2024-12-31 16:32:42,794 - INFO - Metrics saved successfully
+2024-12-31 16:34:31,551 - INFO - Training game 15 completed:
+            Average loss: 2.1397
+            Win rate: 0.00%
+            Average game length: 51.3 moves
+        
+2024-12-31 16:34:31,582 - INFO - AI model saved successfully after 15 training games
+2024-12-31 16:34:31,582 - INFO - Metrics saved successfully
+2024-12-31 16:36:03,984 - INFO - Training game 16 completed:
+            Average loss: 2.1862
+            Win rate: 0.00%
+            Average game length: 50.1 moves
+        
+2024-12-31 16:36:04,015 - INFO - AI model saved successfully after 16 training games
+2024-12-31 16:36:04,015 - INFO - Metrics saved successfully
+2024-12-31 16:40:12,749 - INFO - Training game 17 completed:
+            Average loss: 1.6270
+            Win rate: 0.00%
+            Average game length: 51.6 moves
+        
+2024-12-31 16:40:12,778 - INFO - AI model saved successfully after 17 training games
+2024-12-31 16:40:12,779 - INFO - Metrics saved successfully
+2024-12-31 16:41:30,610 - INFO - Training game 18 completed:
+            Average loss: 2.1862
+            Win rate: 0.00%
+            Average game length: 50.6 moves
+        
+2024-12-31 16:41:30,640 - INFO - AI model saved successfully after 18 training games
+2024-12-31 16:41:30,641 - INFO - Metrics saved successfully
+2024-12-31 16:43:50,437 - INFO - Training game 19 completed:
+            Average loss: 1.7581
+            Win rate: 0.00%
+            Average game length: 51.1 moves
+        
+2024-12-31 16:43:50,467 - INFO - AI model saved successfully after 19 training games
+2024-12-31 16:43:50,468 - INFO - Metrics saved successfully
+2024-12-31 16:44:41,776 - INFO - Training game 20 completed:
+            Average loss: 2.2891
+            Win rate: 0.00%
+            Average game length: 50.0 moves
+        
+2024-12-31 16:44:41,808 - INFO - AI model saved successfully after 20 training games
+2024-12-31 16:44:41,808 - INFO - Metrics saved successfully
+2024-12-31 16:45:56,898 - INFO - Training game 21 completed:
+            Average loss: 2.0173
+            Win rate: 0.00%
+            Average game length: 49.6 moves
+        
+2024-12-31 16:45:56,934 - INFO - AI model saved successfully after 21 training games
+2024-12-31 16:45:56,936 - INFO - Metrics saved successfully
+2024-12-31 16:49:10,730 - INFO - Training game 22 completed:
+            Average loss: 1.5969
+            Win rate: 0.00%
+            Average game length: 51.0 moves
+        
+2024-12-31 16:49:10,765 - INFO - AI model saved successfully after 22 training games
+2024-12-31 16:49:10,766 - INFO - Metrics saved successfully
+2024-12-31 16:51:57,985 - INFO - Training game 23 completed:
+            Average loss: 1.8050
+            Win rate: 0.00%
+            Average game length: 51.2 moves
+        
+2024-12-31 16:51:58,021 - INFO - AI model saved successfully after 23 training games
+2024-12-31 16:51:58,022 - INFO - Metrics saved successfully
+2024-12-31 16:55:04,691 - INFO - Training game 24 completed:
+            Average loss: 1.6777
+            Win rate: 0.00%
+            Average game length: 51.9 moves
+        
+2024-12-31 16:55:04,899 - INFO - AI model saved successfully after 24 training games
+2024-12-31 16:55:04,899 - INFO - Metrics saved successfully
+2024-12-31 16:57:56,018 - INFO - Training game 25 completed:
+            Average loss: 1.8050
+            Win rate: 0.00%
+            Average game length: 52.1 moves
+        
+2024-12-31 16:57:56,049 - INFO - AI model saved successfully after 25 training games
+2024-12-31 16:57:56,050 - INFO - Metrics saved successfully
+2024-12-31 17:00:10,125 - INFO - Training game 26 completed:
+            Average loss: 1.8050
+            Win rate: 0.00%
+            Average game length: 52.2 moves
+        
+2024-12-31 17:00:10,161 - INFO - AI model saved successfully after 26 training games
+2024-12-31 17:00:10,162 - INFO - Metrics saved successfully
+2024-12-31 17:03:48,867 - INFO - Training game 27 completed:
+            Average loss: 1.5209
+            Win rate: 0.00%
+            Average game length: 53.7 moves
+        
+2024-12-31 17:03:48,905 - INFO - AI model saved successfully after 27 training games
+2024-12-31 17:03:48,906 - INFO - Metrics saved successfully
+2024-12-31 17:06:34,215 - INFO - Training game 28 completed:
+            Average loss: 1.7581
+            Win rate: 0.00%
+            Average game length: 53.9 moves
+        
+2024-12-31 17:06:34,248 - INFO - AI model saved successfully after 28 training games
+2024-12-31 17:06:34,248 - INFO - Metrics saved successfully
+2024-12-31 17:09:55,713 - INFO - Training game 29 completed:
+            Average loss: 2.0963
+            Win rate: 0.00%
+            Average game length: 53.4 moves
+        
+2024-12-31 17:09:55,749 - INFO - AI model saved successfully after 29 training games
+2024-12-31 17:09:55,750 - INFO - Metrics saved successfully
+2024-12-31 17:12:05,944 - INFO - Training game 30 completed:
+            Average loss: 1.8856
+            Win rate: 0.00%
+            Average game length: 53.2 moves
+        
+2024-12-31 17:12:05,981 - INFO - AI model saved successfully after 30 training games
+2024-12-31 17:12:05,982 - INFO - Metrics saved successfully
+2024-12-31 17:13:53,410 - INFO - Training game 31 completed:
+            Average loss: 2.1397
+            Win rate: 0.00%
+            Average game length: 52.7 moves
+        
+2024-12-31 17:13:53,445 - INFO - AI model saved successfully after 31 training games
+2024-12-31 17:13:53,445 - INFO - Metrics saved successfully
+2024-12-31 17:15:33,340 - INFO - Training game 32 completed:
+            Average loss: 1.8572
+            Win rate: 0.00%
+            Average game length: 52.6 moves
+        
+2024-12-31 17:15:33,378 - INFO - AI model saved successfully after 32 training games
+2024-12-31 17:15:33,379 - INFO - Metrics saved successfully
+2024-12-31 17:18:32,341 - INFO - Training game 33 completed:
+            Average loss: 1.7809
+            Win rate: 0.00%
+            Average game length: 52.8 moves
+        
+2024-12-31 17:18:32,377 - INFO - AI model saved successfully after 33 training games
+2024-12-31 17:18:32,378 - INFO - Metrics saved successfully
+2024-12-31 17:19:50,393 - INFO - Training game 34 completed:
+            Average loss: 2.0555
+            Win rate: 0.00%
+            Average game length: 52.4 moves
+        
+2024-12-31 17:19:50,426 - INFO - AI model saved successfully after 34 training games
+2024-12-31 17:19:50,427 - INFO - Metrics saved successfully
+2024-12-31 17:20:17,995 - INFO - AI model loaded successfully with 34 training games
+2024-12-31 17:20:18,008 - INFO - Metrics loaded successfully
+2024-12-31 17:22:47,943 - INFO - Training game 35 completed:
+            Average loss: 1.7365
+            Win rate: 0.00%
+            Average game length: 52.7 moves
+        
+2024-12-31 17:22:47,976 - INFO - AI model saved successfully after 35 training games
+2024-12-31 17:22:47,976 - INFO - Metrics saved successfully
+2024-12-31 17:24:56,216 - INFO - Training game 36 completed:
+            Average loss: 2.2359
+            Win rate: 0.00%
+            Average game length: 52.1 moves
+        
+2024-12-31 17:24:56,261 - INFO - AI model saved successfully after 36 training games
+2024-12-31 17:24:56,263 - INFO - Metrics saved successfully
+2024-12-31 17:27:05,457 - INFO - Training game 37 completed:
+            Average loss: 1.7809
+            Win rate: 0.00%
+            Average game length: 52.3 moves
+        
+2024-12-31 17:27:05,489 - INFO - AI model saved successfully after 37 training games
+2024-12-31 17:27:05,490 - INFO - Metrics saved successfully
+2024-12-31 17:29:11,698 - INFO - Training game 38 completed:
+            Average loss: 1.9475
+            Win rate: 0.00%
+            Average game length: 52.1 moves
+        
+2024-12-31 17:29:11,743 - INFO - AI model saved successfully after 38 training games
+2024-12-31 17:29:11,744 - INFO - Metrics saved successfully
+2024-12-31 17:31:36,992 - INFO - Training game 39 completed:
+            Average loss: 1.8050
+            Win rate: 0.00%
+            Average game length: 52.2 moves
+        
+2024-12-31 17:31:37,026 - INFO - AI model saved successfully after 39 training games
+2024-12-31 17:31:37,028 - INFO - Metrics saved successfully
+2024-12-31 17:33:25,153 - INFO - Training game 40 completed:
+            Average loss: 1.9475
+            Win rate: 0.00%
+            Average game length: 52.1 moves
+        
+2024-12-31 17:33:25,195 - INFO - AI model saved successfully after 40 training games
+2024-12-31 17:33:25,196 - INFO - Metrics saved successfully
+2024-12-31 17:35:57,037 - INFO - Training game 41 completed:
+            Average loss: 2.0963
+            Win rate: 0.00%
+            Average game length: 51.7 moves
+        
+2024-12-31 17:35:57,073 - INFO - AI model saved successfully after 41 training games
+2024-12-31 17:35:57,074 - INFO - Metrics saved successfully
+2024-12-31 17:39:29,938 - INFO - Training game 42 completed:
+            Average loss: 1.8303
+            Win rate: 0.00%
+            Average game length: 51.8 moves
+        
+2024-12-31 17:39:29,976 - INFO - AI model saved successfully after 42 training games
+2024-12-31 17:39:29,980 - INFO - Metrics saved successfully
+2024-12-31 17:41:16,808 - INFO - Training game 43 completed:
+            Average loss: 1.9813
+            Win rate: 0.00%
+            Average game length: 51.6 moves
+        
+2024-12-31 17:41:16,845 - INFO - AI model saved successfully after 43 training games
+2024-12-31 17:41:16,845 - INFO - Metrics saved successfully
+2024-12-31 17:44:49,655 - INFO - Training game 44 completed:
+            Average loss: 1.7581
+            Win rate: 0.00%
+            Average game length: 51.8 moves
+        
+2024-12-31 17:44:49,688 - INFO - AI model saved successfully after 44 training games
+2024-12-31 17:44:49,689 - INFO - Metrics saved successfully
+2024-12-31 17:47:52,705 - INFO - Training game 45 completed:
+            Average loss: 1.5828
+            Win rate: 0.00%
+            Average game length: 52.4 moves
+        
+2024-12-31 17:47:52,743 - INFO - AI model saved successfully after 45 training games
+2024-12-31 17:47:52,745 - INFO - Metrics saved successfully
+2024-12-31 17:53:35,136 - INFO - Training game 46 completed:
+            Average loss: 1.5100
+            Win rate: 0.00%
+            Average game length: 53.3 moves
+        
+2024-12-31 17:53:35,171 - INFO - AI model saved successfully after 46 training games
+2024-12-31 17:53:35,172 - INFO - Metrics saved successfully
+2024-12-31 17:55:40,582 - INFO - Training game 47 completed:
+            Average loss: 1.7581
+            Win rate: 0.00%
+            Average game length: 53.4 moves
+        
+2024-12-31 17:55:40,622 - INFO - AI model saved successfully after 47 training games
+2024-12-31 17:55:40,623 - INFO - Metrics saved successfully
+2024-12-31 17:59:18,983 - INFO - Training game 48 completed:
+            Average loss: 1.5209
+            Win rate: 0.00%
+            Average game length: 54.2 moves
+        
+2024-12-31 17:59:19,019 - INFO - AI model saved successfully after 48 training games
+2024-12-31 17:59:19,019 - INFO - Metrics saved successfully
+2024-12-31 18:03:50,731 - INFO - Training game 49 completed:
+            Average loss: 1.3806
+            Win rate: 0.00%
+            Average game length: 55.7 moves
+        
+2024-12-31 18:03:50,762 - INFO - AI model saved successfully after 49 training games
+2024-12-31 18:03:50,763 - INFO - Metrics saved successfully
+2024-12-31 18:10:32,363 - INFO - Training game 50 completed:
+            Average loss: 1.3422
+            Win rate: 0.00%
+            Average game length: 57.3 moves
+        
+2024-12-31 18:10:32,405 - INFO - AI model saved successfully after 50 training games
+2024-12-31 18:10:32,405 - INFO - Metrics saved successfully
+2024-12-31 18:14:57,496 - INFO - Training game 51 completed:
+            Average loss: 1.0000
+            Win rate: 0.00%
+            Average game length: 58.5 moves
+        
+2024-12-31 18:14:57,530 - INFO - AI model saved successfully after 51 training games
+2024-12-31 18:14:57,531 - INFO - Metrics saved successfully
+2024-12-31 18:17:12,283 - INFO - Training game 52 completed:
+            Average loss: 1.8050
+            Win rate: 0.00%
+            Average game length: 58.4 moves
+        
+2024-12-31 18:17:12,316 - INFO - AI model saved successfully after 52 training games
+2024-12-31 18:17:12,318 - INFO - Metrics saved successfully
+2024-12-31 18:19:42,046 - INFO - Training game 53 completed:
+            Average loss: 1.5969
+            Win rate: 0.00%
+            Average game length: 58.8 moves
+        
+2024-12-31 18:19:42,078 - INFO - AI model saved successfully after 53 training games
+2024-12-31 18:19:42,079 - INFO - Metrics saved successfully
+2024-12-31 18:19:56,457 - INFO - AI model loaded successfully with 53 training games
+2024-12-31 18:19:56,469 - INFO - Metrics loaded successfully
+2024-12-31 18:21:32,519 - INFO - Training game 54 completed:
+            Average loss: 1.6777
+            Win rate: 0.00%
+            Average game length: 59.0 moves
+        
+2024-12-31 18:21:32,547 - INFO - AI model saved successfully after 54 training games
+2024-12-31 18:21:32,548 - INFO - Metrics saved successfully
+2024-12-31 18:22:41,643 - INFO - AI model loaded successfully with 54 training games
+2024-12-31 18:22:41,659 - INFO - Metrics loaded successfully
+2024-12-31 18:22:41,670 - ERROR - Failed to initialize Stockfish: [WinError 2] The system cannot find the file specified
+2024-12-31 18:22:51,678 - INFO - Training game 55 completed:
+            Average loss: 2.2359
+            Win rate: 0.00%
+            Average game length: 58.5 moves
+        
+2024-12-31 18:22:51,714 - INFO - AI model saved successfully after 55 training games
+2024-12-31 18:22:51,714 - INFO - Metrics saved successfully
+2024-12-31 18:24:31,946 - INFO - AI model loaded successfully with 55 training games
+2024-12-31 18:24:31,958 - INFO - Metrics loaded successfully
+2024-12-31 18:24:42,228 - INFO - AI model loaded successfully with 55 training games
+2024-12-31 18:24:42,229 - INFO - Metrics loaded successfully
+2024-12-31 18:24:42,234 - ERROR - Failed to initialize Stockfish: [WinError 5] Access is denied
+2024-12-31 18:25:30,320 - INFO - Training game 56 completed:
+            Average loss: 1.7581
+            Win rate: 0.00%
+            Average game length: 58.5 moves
+        
+2024-12-31 18:25:30,349 - INFO - AI model saved successfully after 56 training games
+2024-12-31 18:25:30,349 - INFO - Metrics saved successfully
+2024-12-31 18:28:11,142 - INFO - Training game 57 completed:
+            Average loss: 1.6963
+            Win rate: 0.00%
+            Average game length: 58.6 moves
+        
+2024-12-31 18:28:11,171 - INFO - AI model saved successfully after 57 training games
+2024-12-31 18:28:11,172 - INFO - Metrics saved successfully
+2024-12-31 18:29:44,490 - INFO - Training game 58 completed:
+            Average loss: 1.8856
+            Win rate: 0.00%
+            Average game length: 58.5 moves
+        
+2024-12-31 18:29:44,520 - INFO - AI model saved successfully after 58 training games
+2024-12-31 18:29:44,521 - INFO - Metrics saved successfully
+2024-12-31 18:31:09,524 - INFO - Training game 59 completed:
+            Average loss: 1.8572
+            Win rate: 0.00%
+            Average game length: 58.4 moves
+        
+2024-12-31 18:31:09,550 - INFO - AI model saved successfully after 59 training games
+2024-12-31 18:31:09,552 - INFO - Metrics saved successfully
+2024-12-31 18:32:28,301 - INFO - Training game 60 completed:
+            Average loss: 2.3463
+            Win rate: 0.00%
+            Average game length: 57.9 moves
+        
+2024-12-31 18:32:28,328 - INFO - AI model saved successfully after 60 training games
+2024-12-31 18:32:28,332 - INFO - Metrics saved successfully
+2024-12-31 18:33:02,518 - INFO - Training game 61 completed:
+            Average loss: 2.7057
+            Win rate: 0.00%
+            Average game length: 57.2 moves
+        
+2024-12-31 18:33:02,545 - INFO - AI model saved successfully after 61 training games
+2024-12-31 18:33:02,546 - INFO - Metrics saved successfully
+2024-12-31 18:35:03,872 - INFO - Training game 62 completed:
+            Average loss: 1.0000
+            Win rate: 0.00%
+            Average game length: 57.6 moves
+        
+2024-12-31 18:35:03,899 - INFO - AI model saved successfully after 62 training games
+2024-12-31 18:35:03,899 - INFO - Metrics saved successfully
+2024-12-31 18:55:34,728 - INFO - Training game 63 completed:
+            Average loss: 2.2359
+            Win rate: 0.00%
+            Average game length: 57.2 moves
+        
+2024-12-31 18:55:34,754 - INFO - AI model saved successfully after 63 training games
+2024-12-31 18:55:34,755 - INFO - Metrics saved successfully
+2024-12-31 18:57:35,031 - INFO - Training game 64 completed:
+            Average loss: 1.7809
+            Win rate: 0.00%
+            Average game length: 57.2 moves
+        
+2024-12-31 18:57:35,058 - INFO - AI model saved successfully after 64 training games
+2024-12-31 18:57:35,059 - INFO - Metrics saved successfully
+2024-12-31 18:59:52,970 - INFO - Training game 65 completed:
+            Average loss: 1.7159
+            Win rate: 0.00%
+            Average game length: 57.3 moves
+        
+2024-12-31 18:59:53,001 - INFO - AI model saved successfully after 65 training games
+2024-12-31 18:59:53,002 - INFO - Metrics saved successfully
+2024-12-31 19:03:04,487 - INFO - Training game 66 completed:
+            Average loss: 1.5209
+            Win rate: 0.00%
+            Average game length: 57.8 moves
+        
+2024-12-31 19:03:04,518 - INFO - AI model saved successfully after 66 training games
+2024-12-31 19:03:04,519 - INFO - Metrics saved successfully
+2024-12-31 19:05:46,707 - INFO - Training game 67 completed:
+            Average loss: 1.8050
+            Win rate: 0.00%
+            Average game length: 57.8 moves
+        
+2024-12-31 19:05:46,734 - INFO - AI model saved successfully after 67 training games
+2024-12-31 19:05:46,738 - INFO - Metrics saved successfully
+2024-12-31 19:06:48,660 - INFO - AI model loaded successfully with 67 training games
+2024-12-31 19:06:48,672 - INFO - Metrics loaded successfully
+2024-12-31 19:07:05,056 - INFO - AI model loaded successfully with 67 training games
+2024-12-31 19:07:05,058 - INFO - Metrics loaded successfully
+2024-12-31 19:07:05,068 - ERROR - Failed to initialize Stockfish: [WinError 2] The system cannot find the file specified
+2024-12-31 19:07:06,046 - INFO - AI model loaded successfully with 67 training games
+2024-12-31 19:07:06,048 - INFO - Metrics loaded successfully
+2024-12-31 19:08:15,084 - INFO - Training game 68 completed:
+            Average loss: 1.7581
+            Win rate: 0.00%
+            Average game length: 57.9 moves
+        
+2024-12-31 19:08:15,118 - INFO - AI model saved successfully after 68 training games
+2024-12-31 19:08:15,120 - INFO - Metrics saved successfully
+2024-12-31 19:11:42,267 - INFO - AI model loaded successfully with 68 training games
+2024-12-31 19:11:42,267 - INFO - Metrics loaded successfully
+2024-12-31 19:12:00,796 - INFO - AI model loaded successfully with 68 training games
+2024-12-31 19:12:00,798 - INFO - Metrics loaded successfully
+2024-12-31 19:12:01,162 - ERROR - Failed to initialize Stockfish: engine does not support option Minimum Thinking Time (available options: Debug Log File, NumaPolicy, Threads, Hash, Clear Hash, Ponder, MultiPV, Skill Level, Move Overhead, nodestime, UCI_Chess960, UCI_LimitStrength, UCI_Elo, UCI_ShowWDL, SyzygyPath, SyzygyProbeDepth, Syzygy50MoveRule, SyzygyProbeLimit, EvalFile, EvalFileSmall)
+2024-12-31 19:12:05,591 - INFO - AI model saved successfully after 68 training games
+2024-12-31 19:12:20,664 - INFO - AI model loaded successfully with 68 training games
+2024-12-31 19:12:20,680 - INFO - Metrics loaded successfully
+2024-12-31 19:12:48,353 - INFO - AI model loaded successfully with 68 training games
+2024-12-31 19:12:48,361 - INFO - Metrics loaded successfully
+2024-12-31 19:12:48,651 - ERROR - Failed to initialize Stockfish: engine does not support option Minimum Thinking Time (available options: Debug Log File, NumaPolicy, Threads, Hash, Clear Hash, Ponder, MultiPV, Skill Level, Move Overhead, nodestime, UCI_Chess960, UCI_LimitStrength, UCI_Elo, UCI_ShowWDL, SyzygyPath, SyzygyProbeDepth, Syzygy50MoveRule, SyzygyProbeLimit, EvalFile, EvalFileSmall)
+2024-12-31 19:13:55,053 - INFO - AI model loaded successfully with 68 training games
+2024-12-31 19:13:55,055 - INFO - Metrics loaded successfully
+2024-12-31 19:14:38,250 - INFO - AI model loaded successfully with 68 training games
+2024-12-31 19:14:38,251 - INFO - Metrics loaded successfully
+2024-12-31 19:14:38,524 - ERROR - Failed to initialize Stockfish: engine does not support option Minimum Thinking Time (available options: Debug Log File, NumaPolicy, Threads, Hash, Clear Hash, Ponder, MultiPV, Skill Level, Move Overhead, nodestime, UCI_Chess960, UCI_LimitStrength, UCI_Elo, UCI_ShowWDL, SyzygyPath, SyzygyProbeDepth, Syzygy50MoveRule, SyzygyProbeLimit, EvalFile, EvalFileSmall)
+2024-12-31 19:35:34,031 - INFO - AI model loaded successfully with 68 training games
+2024-12-31 19:35:34,031 - INFO - Metrics loaded successfully
+2024-12-31 20:25:00,236 - INFO - AI model loaded successfully with 68 training games
+2024-12-31 20:25:00,238 - INFO - Metrics loaded successfully
+2024-12-31 20:36:56,547 - INFO - AI model loaded successfully with 68 training games
+2024-12-31 20:36:56,551 - INFO - Metrics loaded successfully
+2024-12-31 20:52:21,952 - INFO - AI model loaded successfully with 68 training games
+2024-12-31 20:52:21,953 - INFO - Metrics loaded successfully
+2024-12-31 20:52:43,341 - INFO - AI model loaded successfully with 68 training games
+2024-12-31 20:52:43,343 - INFO - Metrics loaded successfully
+2024-12-31 21:09:26,820 - INFO - AI model saved successfully after 68 training games
+2025-01-01 15:43:45,958 - INFO - AI model loaded successfully with 68 training games
+2025-01-01 15:43:45,970 - INFO - Metrics loaded successfully
+2025-01-01 17:35:58,589 - INFO - AI model loaded successfully with 68 training games
+2025-01-01 17:35:58,589 - INFO - Metrics loaded successfully
+2025-01-03 21:07:39,530 - INFO - AI model loaded successfully with 68 training games
+2025-01-03 21:07:39,544 - INFO - Metrics loaded successfully
+2025-01-03 21:07:39,569 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-03 21:07:39,569 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-03 21:07:39,571 - INFO -  * Restarting with stat
+2025-01-03 21:07:45,815 - INFO - AI model loaded successfully with 68 training games
+2025-01-03 21:07:45,816 - INFO - Metrics loaded successfully
+2025-01-03 21:07:45,829 - WARNING -  * Debugger is active!
+2025-01-03 21:07:45,832 - INFO -  * Debugger PIN: 119-218-027
+2025-01-03 21:07:46,228 - INFO - 127.0.0.1 - - [03/Jan/2025 21:07:46] "GET / HTTP/1.1" 200 -
+2025-01-03 21:07:58,846 - INFO - 127.0.0.1 - - [03/Jan/2025 21:07:58] "POST /make_move HTTP/1.1" 200 -
+2025-01-03 21:08:02,162 - INFO - 127.0.0.1 - - [03/Jan/2025 21:08:02] "[31m[1mPOST /make_move HTTP/1.1[0m" 400 -
+2025-01-03 21:08:10,808 - INFO - 127.0.0.1 - - [03/Jan/2025 21:08:10] "GET / HTTP/1.1" 200 -
+2025-01-03 21:08:16,897 - INFO - 127.0.0.1 - - [03/Jan/2025 21:08:16] "[31m[1mPOST /make_move HTTP/1.1[0m" 400 -
+2025-01-03 21:10:14,922 - INFO - 127.0.0.1 - - [03/Jan/2025 21:10:14] "[35m[1mPOST /make_move HTTP/1.1[0m" 500 -
+2025-01-03 21:10:19,407 - INFO - 127.0.0.1 - - [03/Jan/2025 21:10:19] "[35m[1mPOST /make_move HTTP/1.1[0m" 500 -
+2025-01-03 21:15:07,476 - INFO -  * Detected change in 'D:\\Docs\\ChessWeb\\app.py', reloading
+2025-01-03 21:15:08,707 - INFO -  * Restarting with stat
+2025-01-07 20:43:00,238 - ERROR - Error saving training state: name 'self' is not defined
+2025-01-07 20:43:01,466 - ERROR - Error loading training state: cannot access local variable 'checkpoint' where it is not associated with a value
+2025-01-07 20:43:01,467 - INFO - Loaded previous metrics
+2025-01-07 20:43:15,338 - ERROR - Error in iterative deepening at depth 1: Given groups=1, weight of size [128, 6, 3, 3], expected input[1, 17, 8, 8] to have 6 channels, but got 17 channels instead
